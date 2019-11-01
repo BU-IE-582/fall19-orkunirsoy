@@ -7,3 +7,9 @@
 [Here](582_Homework1-Orkun_İrsoy.html) is my html file for HW 1
 
 [Here](582_Homework1-Orkun_İrsoy.R) is my Rscript file for HW1
+
+##Homework 2
+
+[Here](582_Homework2-Orkun_İrsoy.html) is my html file for HW 2
+
+[Here](582_Homework2-Orkun_İrsoy.R) is my Rscript file for HW2
