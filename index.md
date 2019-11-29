@@ -13,3 +13,12 @@
 [Here](582_Homework2-Orkun_İrsoy.html) is my html file for HW 2
 
 [Here](582_Homework2-Orkun_İrsoy.R) is my Rscript file for HW2
+
+
+##Homework 3
+
+[Here](IE582_Fall2019_Homework3.pdf) is Homework 3 Questions
+
+[Here](582_Homework3-Orkun_İrsoy.html) is my html file for HW 3
+
+[Here](582_Homework3-Orkun_İrsoy.R) is my Rscript file for HW3
