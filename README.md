@@ -13,4 +13,10 @@ fall19-orkunirsoy created by GitHub Classroom
 
 [Here](582_Homework2-Orkun_İrsoy.html) is my html file for HW 2
 
-[Here](582_Homework2-Orkun_İrsoy.R) is my Rscript file for HW1
+[Here](582_Homework2-Orkun_İrsoy.R) is my Rscript file for HW2
+
+###Homework 3
+
+[Here](582_Homework3-Orkun_İrsoy.html) is my html file for HW 3
+
+[Here](582_Homework3-Orkun_İrsoy.R) is my Rscript file for HW3
