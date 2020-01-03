@@ -26,4 +26,6 @@
 
 ##Project
 
+[Here](IE582_Fall2019_Project.pdf) is Project Description
+
 [Here](IE_582_Project.html) is my html file for HW 3
