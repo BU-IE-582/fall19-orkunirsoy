@@ -26,5 +26,5 @@
 
 ##Project
 
-[Here](IE 582 Project - Güz,İrsoy.html) is my html file for HW 3
+[Here](Project/IE 582 Project - Güz,İrsoy.html) is my html file for HW 3
 
