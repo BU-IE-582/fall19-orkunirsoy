@@ -26,9 +26,9 @@
 ##Homework 5
 
 
-[Here](IE_582_HW-5.html) is my html file for HW 5
+[Here](IE_582_HW_5.html) is my html file for HW 5
 
-[Here](IE_582_HW-5.R) is my Rscript file for HW5
+[Here](IE_582_HW_5.R) is my Rscript file for HW5
 
 ##Project
 
